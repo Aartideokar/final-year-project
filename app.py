@@ -91,8 +91,8 @@ names = ["Sakshi Yadav", "Anushka Tawde"]
 usernames = ["sYadav", "aTawde"]
 
 names = ["Aarti Deokar", "Aarti"]
-usernames = ["aDeokar", "aarti"]
-passwords = ["aDeokar123", "aarti123"]
+usernames = ["aDeoka", "aarti"]
+passwords = ["aDeoka123", "aarti123"]
 
 feature_names_best = ['age', 'sex', 'steroid', 'antivirals', 'fatigue', 'spiders', 'ascites', 'varices', 'bilirubin',
                       'alk_phosphate', 'sgot', 'albumin', 'protime', 'histology']
